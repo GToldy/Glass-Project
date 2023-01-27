@@ -1,0 +1,13 @@
+﻿Row,FromStatus,TransitionName,ToStatus,TransitionScreen,conditions,validators,postFunctions
+1,"rgb(193, 199, 208)",Create,glass-workflow-transition-blue,ADMIN: Software Development Default Issue Screen,"",2,""
+2,glass-workflow-transition-blue,belemegyalmaba,glass-workflow-transition-blue,tryOutScreen,1,"",1
+3,glass-workflow-transition-blue,approvedmegy,glass-workflow-transition-green,"",1,1,1
+4,glass-workflow-transition-blue,catbemegy,glass-workflow-transition-green,"","",1,1
+5,glass-workflow-transition-blue,megyvalahova,glass-workflow-transition-green,"",1,"",""
+6,glass-workflow-transition-blue,bearbemegy,glass-workflow-transition-yellow,"",1,"",""
+7,glass-workflow-transition-yellow,alma456bamegy,glass-workflow-transition-green,"","","",1
+8,glass-workflow-transition-yellow,almabamegy,glass-workflow-transition-blue,"","",1,1
+9,glass-workflow-transition-green,ghj,glass-workflow-transition-yellow,"","",1,1
+10,glass-workflow-transition-green,ffffbemegy,glass-workflow-transition-yellow,"",1,1,""
+11,glass-workflow-transition-green,klu,glass-workflow-transition-yellow,"","",1,""
+12,glass-workflow-transition-yellow,adoptedbemegy,glass-workflow-transition-green,"",1,"",""
